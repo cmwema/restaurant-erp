@@ -49,7 +49,7 @@ function Header() {
   };
 
   return (
-    <header className="flex z-50 w-screen p-3 px-3 md:p-6 md:px-8">
+    <header className="flex z-50 w-screen p-3 px-3 md:p-6 md:px-8 top-0 fixed bg-gray-100 shadow-sm">
       {/* DEsktop and tablet */}
       <div className="hidden md:flex w-full h-full gap-8 items-center justify-between">
         <Link to={"/"} className="flex items-center gap-2 cursor-pointer">
