@@ -41,8 +41,8 @@ export const heroData = [
 export const categories = [
   {
     id: 1,
-    name: "Main Course",
-    urlParamName: "MainCourse",
+    name: "Dishes",
+    urlParamName: "Dishes",
   },
   {
     id: 2,
@@ -55,58 +55,18 @@ export const categories = [
     urlParamName: "Beverages",
   },
   {
-    id: 4,
-    name: "Hot Beverages",
-    urlParamName: "HotBeverages",
-  },
-  {
-    id: 5,
-    name: "Accompaniments",
-    urlParamName: "Accompaniments",
-  },
-  {
-    id: 6,
-    name: "Sauces",
-    urlParamName: "Sauces",
-  },
-
-  {
     id: 7,
     name: "Soft Drinks",
     urlParamName: "SoftDrinks",
   },
-
-  {
-    id: 8,
-    name: "Vegetarian",
-    urlParamName: "Vegetarian",
-  },
-
   {
     id: 9,
-    name: "Beers",
-    urlParamName: "Beers",
+    name: "Alcoholic Drinks",
+    urlParamName: "AlcoholicDrinks",
   },
-  {
-    id: 10,
-    name: "Mocktails",
-    urlParamName: "Mocktails",
-  },
-
-  {
-    id: 11,
-    name: "Cocktails",
-    urlParamName: "Cocktails",
-  },
-
   {
     id: 12,
     name: "Cigars",
     urlParamName: "Cigars",
-  },
-  {
-    id: 13,
-    name: "Shots",
-    urlParamName: "Shots",
   },
 ];
