@@ -1,5 +1,5 @@
 import F12 from "../img/f12.png";
-import F20 from "../img/f20.png";
+import F11 from "../img/f11.png";
 import F18 from "../img/f18.png";
 import D1 from "../img/d1.png";
 import D2 from "../img/d2.png";
@@ -14,7 +14,7 @@ export const heroData = [
   {
     id: 2,
     price: "1150",
-    imageSrc: F20,
+    imageSrc: F11,
   },
   {
     id: 3,
