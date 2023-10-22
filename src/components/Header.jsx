@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import Logo from "../img/logo.webp";
-import Avatar from "../img/avatar.png";
+import Avatar from "../img/avatar.jpg";
 import { BsFillBasketFill } from "react-icons/bs";
 import { MdAdd, MdLogout, MdLogin } from "react-icons/md";
 import { motion } from "framer-motion";
