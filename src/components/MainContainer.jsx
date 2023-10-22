@@ -14,8 +14,6 @@ function MainContainer() {
   return (
     <>
       <HeroSection />
-      
-
       <MenuContainer />
     </>
   );

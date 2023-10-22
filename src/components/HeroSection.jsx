@@ -5,7 +5,7 @@ import { heroData } from "../utils/data";
 
 function HeroSection() {
   return (
-    <section className="mt-20 h-90vh grid grid-cols-1 lg:grid-cols-2 gap-2 md:px-16">
+    <section className="mt-20 min-h-90vh grid grid-cols-1 lg:grid-cols-2 gap-2 md:px-16">
       <div className="py-2 flex-1 flex flex-col items-start justify-center gap-6 h-90vh">
         <p className="text-[2.5rem] font-bold tracking-wide text-black px-4">
           Discover Unmatched Speed and Excellence in
